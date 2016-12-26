@@ -14,7 +14,6 @@ function slide()
 img.src = "assets/images/face"+a+".jpg";
 
 
-if (a < 11)
 {
 a++;
 }
